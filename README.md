@@ -33,11 +33,14 @@ are:
    <img src="images/triangle_5.png">
 </p>
 
+
 $$D = \left( \frac{a_1 + b_1}{2}, \frac{a_2 + b_2}{2} \right)$$
+
 $$E = \left( \frac{b_1 + c_1}{2}, \frac{b_2 + c_2}{2} \right)$$
+
 $$F = \left( \frac{a_1 + c_1}{2}, \frac{a_2 + c_2}{2} \right)$$
 
-\
+
 Triangles $\triangle ADF$, $\triangle DBE$, $\triangle FEC$, will enter the next iteration for division.
 
 ## Number of vertices.
